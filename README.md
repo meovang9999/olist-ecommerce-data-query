@@ -4,6 +4,6 @@ This project explores the Olist Brazilian e-commerce dataset through exploratory
 
 Tools used: MySQL, Python
 
-The main goal of this project is to practice and improve my MySQL skills. Feel free to use this EDA for learning, reference, or any other purpose.
+The main goal of this project is to practice and improve my MySQL skills.
 
 The final and complete analysis is presented in the olist_EDA.ipynb file. The data_import.py script can be used to create tables and import data into a MySQL database.
